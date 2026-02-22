@@ -14,3 +14,61 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ☕ Java Demo Code
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90"/>
+</p>
+
+<p align="center">
+  🚀 Collection of Java practice projects, demos, and learning experiments
+</p>
+
+---
+
+## 📚 About This Account
+
+This account is dedicated to:
+
+- Core Java practice
+- OOP concepts implementation
+- JDBC & Database examples
+- Mini backend demos
+- Clean code experiments
+- Software engineering learning cases
+
+---
+
+## 🛠 Tech Focus
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/postgres-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+</p>
+
+---
+
+## 📂 Repository Structure
+
+🔹 Core Java Fundamentals  
+🔹 OOP Implementation  
+🔹 JDBC Projects  
+🔹 Spring Boot Experiments  
+🔹 Software Engineering Case Studies  
+
+---
+
+## 🎯 Purpose
+
+This profile serves as a structured learning journey in Java development.  
+Each repository represents a specific concept or implementation practice.
+
+---
+
+<p align="center">
+  ☕ "Code. Practice. Improve. Repeat."
+</p>
