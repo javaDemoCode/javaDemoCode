@@ -40,6 +40,21 @@ This account is dedicated to:
 
 ---
 
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=javaDemoCode&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaDemoCode&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=javaDemoCode&theme=radical&hide_border=true"/>
+</p>
+
+---
+
 ## 🛠 Tech Focus
 
 <p align="center">
