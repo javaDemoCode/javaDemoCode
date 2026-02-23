@@ -45,11 +45,7 @@ This account is dedicated to:
 ## ☕ Java Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javaDemoCode&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=javaDemoCode&theme=github-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaDemoCode&theme=github_dark" />
 </p>
 
 ---
