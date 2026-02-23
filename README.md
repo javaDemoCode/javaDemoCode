@@ -42,15 +42,14 @@ This account is dedicated to:
 
 ---
 
-## 📊 GitHub Statistics
+## ☕ Java Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=javaDemoCode&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=javaDemoCode&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=javaDemoCode&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=javaDemoCode&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=javaDemoCode&theme=github-dark&hide_border=true" />
 </p>
 
 ---
