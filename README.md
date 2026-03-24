@@ -1,48 +1,41 @@
 ## Hi there 👋
 
-<!--
-**javaDemoCode/javaDemoCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# ☕ Java Demo Code
+# ☕ My Coding Journey
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="90"/>
 </p>
 
 <p align="center">
-  🚀 Collection of Java practice projects, demos, and learning experiments
+  🚀 Learning to build applications from scratch — step by step, with logic
 </p>
 
 ---
 
 ## 📚 About This Account
 
-This account is dedicated to:
+This account is dedicated to my learning journey as a developer.
 
-- Core Java practice
-- OOP concepts implementation
-- JDBC & Database examples
-- Mini backend demos
-- Clean code experiments
-- Software engineering learning cases
+I am currently focusing on building a strong foundation so I can:
 
----
+* Think logically
+* Solve problems independently
+* Build applications from my own ideas
+* Not rely too much on AI
 
 ---
 
-## ☕ Java Activity Overview
+## 🧠 Learning Focus
+
+* ☕ Java (Core & OOP)
+* ⚙️ Spring Boot (Backend Development)
+* ⚛️ React (Frontend Development)
+* 🗄️ MySQL & PostgreSQL (Database)
+* 🌐 HTML, CSS, JavaScript (Fundamentals)
+
+---
+
+## ☕ Activity Overview
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaDemoCode&theme=github_dark" />
@@ -50,36 +43,58 @@ This account is dedicated to:
 
 ---
 
-## 🛠 Tech Focus
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60"/>
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/>
 </p>
 
 ---
 
-## 📂 Repository Structure
+## 📂 What You'll Find Here
 
-🔹 Core Java Fundamentals  
-🔹 OOP Implementation  
-🔹 JDBC Projects  
-🔹 Spring Boot Experiments  
-🔹 Software Engineering Case Studies  
+🔹 Java Fundamentals & OOP
+🔹 Spring Boot Experiments
+🔹 Frontend Learning (React, JS, HTML, CSS)
+🔹 Database Practice (MySQL & PostgreSQL)
+🔹 Mini Projects & Practice Apps
+
+---
+
+## 🚧 Current Focus
+
+Right now I am strengthening my fundamentals:
+
+* HTML, CSS, JavaScript
+* Logic & Algorithms
+* Simple Web Projects
 
 ---
 
 ## 🎯 Purpose
 
-This profile serves as a structured learning journey in Java development.  
-Each repository represents a specific concept or implementation practice.
+This profile is not just for storing code,
+but to document my growth as a developer.
+
+Each repository represents:
+
+* What I learn
+* What I build
+* And how I improve over time
 
 ---
 
