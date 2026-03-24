@@ -67,10 +67,10 @@ I am currently focusing on building a strong foundation so I can:
 
 ## 📂 What You'll Find Here
 
-🔹 Java Fundamentals & OOP
-🔹 Spring Boot Experiments
-🔹 Frontend Learning (React, JS, HTML, CSS)
-🔹 Database Practice (MySQL & PostgreSQL)
+🔹 Java Fundamentals & OOP <br>
+🔹 Spring Boot Experiments <br>
+🔹 Frontend Learning (React, JS, HTML, CSS) <br>
+🔹 Database Practice (MySQL & PostgreSQL) <br>
 🔹 Mini Projects & Practice Apps
 
 ---
