@@ -35,6 +35,14 @@ I am currently focusing on building a strong foundation so I can:
 
 ---
 
+## ☕ Activity Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaDemoCode&theme=github_dark" />
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -74,14 +82,6 @@ Right now I am strengthening my fundamentals:
 * HTML, CSS, JavaScript
 * Logic & Algorithms
 * Simple Web Projects
-
----
-
-## ☕ Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=javaDemoCode&theme=github_dark" />
-</p>
 
 ---
 
